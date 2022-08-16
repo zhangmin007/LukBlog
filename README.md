@@ -5,6 +5,11 @@ The project type should be:Social & DAOs => Social Media Feed.
 The project is a blog plantform, you can send blog to LUKSO block chain with your UP or metamask,and tip eachother with LYXT and leave your comment.
 
 
+## Team
+Name:zhangmin
+Email:286819688@qq.com
+
+
 ## LukBlog Features
 you can do the following things:
 
