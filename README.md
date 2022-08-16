@@ -27,6 +27,7 @@ you can do the following things:
 
 
 ## Local Development
+clone the project
 
 ### Install
 
@@ -37,6 +38,7 @@ npm install
 ### Run
 
 ```bash
+cd client
 npm run dev
 ```
 
