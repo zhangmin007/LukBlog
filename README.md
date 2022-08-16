@@ -1,6 +1,6 @@
 # LukBlog
 Hello Lukso Team! 
-LukBlog project is builded for the Luskso hackathon submission from [@zhangmin007](https://github.com/zhangmin007).
+LukBlog project is builded for the Luskso hackathon submission from [@zhangmin007](https://github.com/zhangmin007/LukBlog).
 The project type should be:Social & DAOs => Social Media Feed.
 The project is a blog plantform, you can send blog to LUKSO block chain with your UP or metamask,and tip eachother with LYXT and leave your comment.
 
