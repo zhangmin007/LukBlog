@@ -15,17 +15,19 @@ you can do the following things:
 
 ## Demo & Video
 
- You can  watch an overview video of all the possible use cases [here](https://youtu.be/ioa0oO5FMPI). 
-
-## Live Demo
-
-运行示例可能无法提供，没有服务器，git上修改
+ You can  watch an overview video of all the possible use cases [here](https://youtu.be/P3-REClSJ2M). 
 
 ## Showcase
 
-在git上插入图片
+![页眉](https://user-images.githubusercontent.com/43232432/184845806-a969a5e7-5033-4ff9-8f39-5efb4edd7114.png)
+![卡片](https://user-images.githubusercontent.com/43232432/184845871-0535703a-f895-4eca-b918-43983a12e377.png)
+![发微博](https://user-images.githubusercontent.com/43232432/184845969-95ee9110-8c54-4d32-a996-9cb6b693c512.png)
+![发微博付费](https://user-images.githubusercontent.com/43232432/184846027-b182273e-6026-4af4-92a0-6d3331384bab.png)
+![博客](https://user-images.githubusercontent.com/43232432/184846079-cdb660eb-0ab9-4646-9e34-c163152f0102.png)
+
 
 ## Local Development
+clone the project
 
 ### Install
 
@@ -36,6 +38,7 @@ npm install
 ### Run
 
 ```bash
+cd client
 npm run dev
 ```
 
